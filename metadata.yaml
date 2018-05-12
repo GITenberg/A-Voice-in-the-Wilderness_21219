@@ -1,0 +1,33 @@
+_repo: A-Voice-in-the-Wilderness_21219
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hill, Grace Livingston
+    aliases:
+    - Lutz, Grace Livingston Hill
+    - Livingston, Grace
+    birthdate: 1865
+    deathdate: 1947
+    gutenberg_agent_id: '2299'
+    url: http://www.gutenberg.org/2009/agents/2299
+    wikipedia: http://en.wikipedia.org/wiki/Grace_Livingston_Hill
+description: ''
+gutenberg_issued: '2007-04-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21219'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Teachers -- Fiction'
+- !lcsh 'Religious fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Arizona -- Social life and customs -- Fiction'
+title: A Voice in the Wilderness
+url: http://www.gutenberg.org/ebooks/21219
